@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Jhon",
+    "DOB": "15-01-1996",
+    "Height": 180,
+    "City": "Los Angeles",
+    "State": "California"
+  },
+  {
+    "Name": "Steve",
+    "DOB": "20-02-1996",
+    "Height": 170,
+    "City": "New York City",
+    "State": "New York"
+  },
+  {
+    "Name": "Tony",
+    "DOB": "25-03-1995",
+    "Height": 155,
+    "City": "Chicago",
+    "State": "Illinois"
+  },
+  {
+    "Name": "Jessy",
+    "DOB": "30-05-1990",
+    "Height": 160,
+    "City": "Houston",
+    "State": "Texas"
+  },
+  {
+    "Name": "Jane",
+    "DOB": "15-03-1993",
+    "Height": 170,
+    "City": "Phoenix",
+    "State": "Arizona"
+  }
+]
